@@ -28,15 +28,7 @@ public class MyListener implements ApplicationListener<ApplicationPreparedEvent>
 
 
 	
-//	@Autowired
-//	private Environment env;
-	
-//	
-	//@Value("${profile.active}")				//not going to work for ApplicationPreparedEvent
-	//private String pro;
-//	
-	//@Autowired
-	//private ApplicationArguments args;	   
+	   
 	
 	  private String name;
 	  
